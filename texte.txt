@@ -1,0 +1,7 @@
+cd path/to/tonProjet
+git init
+git add index.html style.css script.js
+git commit -m "Initial version avocat search"
+git branch -M main
+git remote add origin https://github.com/TON_USER/avocat-search.git
+git push -u origin main
